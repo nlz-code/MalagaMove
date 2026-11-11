@@ -30,7 +30,7 @@ MálagaMove te dice cuánto te va a costar moverte por Málaga antes de pedir el
 | Plataforma | Estado |
 | --- | --- |
 | 📱 iPhone (App Store) | Próximamente |
-| 🤖 Android (Google Play) | Aplicacion APK.apk |
+| 🤖 Android (Google Play) | <a href="https://github.com/nlz-code/MalagaMove/blob/main/Aplicacion%20APK.apk">DESCARGAR</a> |
 
 > En cuanto la app esté publicada, aquí aparecerán los enlaces de descarga. Dale a **⭐ Star** o **Watch** en este repositorio para enterarte.
 
